@@ -1,3 +1,3 @@
 # artur_test
 
-dev - qa
+dev - feature
